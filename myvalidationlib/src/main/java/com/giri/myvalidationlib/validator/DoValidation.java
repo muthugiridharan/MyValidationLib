@@ -8,12 +8,10 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
-
 import com.giri.myvalidationlib.exception.LayoutNotFoundException;
 import com.giri.myvalidationlib.model.ValidationResult;
 import com.giri.myvalidationlib.model.ValidatorModel;
 import com.google.android.material.textfield.TextInputLayout;
-
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;

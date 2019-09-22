@@ -1,7 +1,6 @@
 package com.giri.validationproject;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
@@ -9,7 +8,6 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.RadioGroup;
 import android.widget.Toast;
-
 import com.giri.myvalidationlib.model.ValidationResult;
 import com.giri.myvalidationlib.validator.MyValidator;
 import com.google.android.material.button.MaterialButton;
@@ -20,7 +18,6 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements MyValidator.MyValidatorListener{
 
-    private  final String TAG = MainActivity.class.getSimpleName();
     private TextInputLayout tlFirstName,tlLastName,tlUserName,tlEmail,tlPassword,tlConfirmPassword,tlDateOfBirth,tlDes;
     private RadioGroup rgGender;
     private MaterialCheckBox cbTerms;

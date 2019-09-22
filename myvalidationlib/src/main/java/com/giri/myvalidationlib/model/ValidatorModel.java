@@ -10,7 +10,7 @@ public class ValidatorModel {
 
     public View errView;
     public String validationType;
-    public Integer minNo, maxNo;
+    public int minNo,maxNo;
     public View primaryView;
     public String pattern;
     public String errorMsg;
