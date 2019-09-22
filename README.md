@@ -1,1 +1,2 @@
-# MyValidationLib [![](https://jitpack.io/v/muthugiridharan/MyValidationLib.svg)](https://jitpack.io/#muthugiridharan/MyValidationLib)
+# MyValidationLib [![](https://jitpack.io/v/muthugiridharan/MyValidationLib.svg)](https://jitpack.io/#muthugiridharan/MyValidationLib) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4073409479f43779647d9f17210133b)](https://www.codacy.com/manual/muthugiridharan/MyValidationLib?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=muthugiridharan/MyValidationLib&amp;utm_campaign=Badge_Grade)
+A small validation library for android
