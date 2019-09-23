@@ -1,7 +1,7 @@
 
 # MyValidationLib [![](https://jitpack.io/v/muthugiridharan/MyValidationLib.svg)](https://jitpack.io/#muthugiridharan/MyValidationLib) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4073409479f43779647d9f17210133b)](https://www.codacy.com/manual/muthugiridharan/MyValidationLib?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=muthugiridharan/MyValidationLib&amp;utm_campaign=Badge_Grade)  [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
 
-A small validation library to make your life easy.
+A small validation library to make your life easy. (For AndroidX)
 
 ## Validation Features
 
